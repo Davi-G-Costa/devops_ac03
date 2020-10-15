@@ -4,4 +4,4 @@ python:
 before_install:
 - pip install -r requirements.txt
 script:
-- pytest com/davi/test/validando_funcionalidade.py
+- pytest com/davi/test/validando_funcionalidades.py
